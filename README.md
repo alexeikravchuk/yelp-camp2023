@@ -1,4 +1,4 @@
-The project was completed during the course ["The Web Developer Bootcamp"](https://www.udemy.com/course/the-web-developer-bootcamp/)
+The project was created during the course ["The Web Developer Bootcamp"](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 The project is deployed on the railway service.
 
