@@ -48,7 +48,7 @@ app.use(mongoSanitize());
 
 helmet(app);
 
-const secret = process.env.SECRET || 'thisshouldbebettersecret!';
+const secret = process.env.SECRET || 'hXt9hj1xRBX43p0T8nvcHIgJEwMgvmeY';
 
 const store = MongoStore.create({
   mongoUrl: dbUrl,
